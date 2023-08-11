@@ -1,0 +1,39 @@
+.main-gen{
+    margin-top: 10px;
+    height: 600px;
+    background-color: rgb(154, 242, 213);
+    border-radius: 20px;
+}
+
+.main-h1{
+padding-top: 30px;
+padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 60px;
+}
+ul>li{
+    padding: 15px 80px ;
+    list-style-type: none;
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+}
+
+.input{
+    width: 50%;
+    float: left;
+    margin-left: 80px;
+}
+.btn{
+    margin-left: 20px;
+    width: 100px;
+    box-shadow: 0 0 10px  green;
+}
+.h4-type{
+    color: red;
+    display: none;
+}
+
+.h4-type2{
+    display: block;
+}
